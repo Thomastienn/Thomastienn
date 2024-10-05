@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 ### I'm a newbie but I'm trying everyday 💪
 - 🔭 I’m studying at University of Calgary
 - 🌱 I’m currently learning data science
-- 🔥 I'm grinding for intership
+- 🔥 I'm grinding for internship
 
