@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m studying at University of Calgary<br>🌱 I’m making baby steps everyday<br>🔥 I'm grinding for internship
 
-# Leetcode Stats:
+# 📊 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Thomastien?theme=dark&font=Poppins&ext=contest)
 ---
 # 📊 GitHub Stats:
